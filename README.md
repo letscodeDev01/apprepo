@@ -1,4 +1,4 @@
 ##Demo
 this is the demo app
-Adding line number 1
+Adding line.
 Adding lineNumber 2
